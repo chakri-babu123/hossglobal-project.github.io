@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Akwe Pro Condensed';
+    src: local('Akwe Pro Condensed SC Medium'), local('Akwe-Pro-Condensed-SC-Medium'),
+        url('AkweProConSC-Medium.woff2') format('woff2'),
+        url('AkweProConSC-Medium.woff') format('woff'),
+        url('AkweProConSC-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
